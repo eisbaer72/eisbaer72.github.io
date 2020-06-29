@@ -5,3 +5,6 @@ Der Vulkanier Mr. Spock ist einer der Haupt-Charaktere im originalen Star-Trek-U
 * Spitze Ohren
 * Komische Frisur
 * Grünes Blut
+
+## Motto ##
+> Live long and prosper!
