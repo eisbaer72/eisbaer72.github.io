@@ -7,4 +7,4 @@ Der Vulkanier Mr. Spock ist einer der Haupt-Charaktere im originalen Star-Trek-U
 * Grünes Blut
 
 ## Motto ##
-Live long and prosper!
+> Live long and prosper!
